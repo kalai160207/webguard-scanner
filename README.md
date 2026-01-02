@@ -18,3 +18,4 @@ Designed for learning, research, and ethical testing, WebGuard Scanner helps dev
 
 # OUTPUT
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/99b34351-bc7d-471d-b817-3526f110203c" />
